@@ -1,0 +1,36 @@
+# Security Checklist – OWASP Juice Shop
+
+## ✅ Input Validation
+- Email validation using validator library
+- SQL Injection prevented using parameterized queries
+- XSS tested using `<script>alert('XSS')</script>`
+
+## ✅ Authentication & Authorization
+- JWT-based authentication implemented
+- Tokens expire after 1 hour
+- Invalid login attempts rejected
+
+## ✅ Password Security
+- Password hashing concept implemented
+- bcrypt library studied and tested
+- Plain-text passwords avoided
+
+## ✅ Secure HTTP Headers
+- Helmet.js enabled
+- Protection against XSS, Clickjacking, MIME sniffing
+
+## ✅ Logging & Monitoring
+- Winston logger configured
+- Login success events logged
+- Security logs stored
+
+## ✅ Testing Tools Used
+- OWASP ZAP
+- Browser Developer Tools
+- Manual SQL Injection testing
+
+## 🔐 Best Practices Followed
+- Input validation everywhere
+- Password hashing
+- Token-based authentication
+- Secure headers enabled

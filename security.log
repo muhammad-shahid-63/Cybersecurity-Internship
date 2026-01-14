@@ -1,0 +1,108 @@
+{"level":"info","message":"Detected Node.js version \u001b[1mv24.12.0\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.083Z"}
+{"level":"info","message":"Detected OS \u001b[1mwin32\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.088Z"}
+{"level":"info","message":"Detected CPU \u001b[1mx64\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.089Z"}
+{"level":"info","message":"Configuration \u001b[1mdefault\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.154Z"}
+{"level":"info","message":"Entity models \u001b[1m20\u001b[22m of \u001b[1m20\u001b[22m are initialized (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.156Z"}
+{"level":"info","message":"Required file \u001b[1mserver.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.221Z"}
+{"level":"info","message":"Required file \u001b[1mindex.html\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.229Z"}
+{"level":"info","message":"Required file \u001b[1mstyles.css\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.230Z"}
+{"level":"info","message":"Required file \u001b[1mmain.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.230Z"}
+{"level":"info","message":"Required file \u001b[1mtutorial.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.231Z"}
+{"level":"info","message":"Required file \u001b[1mruntime.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.232Z"}
+{"level":"info","message":"Required file \u001b[1mvendor.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.233Z"}
+{"level":"info","message":"Port \u001b[1m3000\u001b[22m is available (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.248Z"}
+{"level":"info","message":"Chatbot training data \u001b[1mbotDefaultTrainingData.json\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.262Z"}
+{"level":"info","message":"Domain \u001b[1mhttps://www.alchemy.com/\u001b[22m is reachable (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:42:58.370Z"}
+{"level":"info","message":"\u001b[36mServer listening on port \u001b[1m3000\u001b[22m\u001b[39m","timestamp":"2026-01-03T04:43:03.389Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36merrorHandlingChallenge\u001b[39m (Error Handling)","timestamp":"2026-01-03T04:43:08.721Z"}
+{"level":"info","message":"Detected Node.js version \u001b[1mv24.12.0\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.312Z"}
+{"level":"info","message":"Detected OS \u001b[1mwin32\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.317Z"}
+{"level":"info","message":"Detected CPU \u001b[1mx64\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.318Z"}
+{"level":"info","message":"Configuration \u001b[1mdefault\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.389Z"}
+{"level":"info","message":"Entity models \u001b[1m20\u001b[22m of \u001b[1m20\u001b[22m are initialized (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.390Z"}
+{"level":"info","message":"Required file \u001b[1mserver.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.413Z"}
+{"level":"info","message":"Required file \u001b[1mindex.html\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.415Z"}
+{"level":"info","message":"Required file \u001b[1mstyles.css\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.417Z"}
+{"level":"info","message":"Required file \u001b[1mmain.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.418Z"}
+{"level":"info","message":"Required file \u001b[1mruntime.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.419Z"}
+{"level":"info","message":"Required file \u001b[1mtutorial.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.421Z"}
+{"level":"info","message":"Required file \u001b[1mvendor.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.422Z"}
+{"level":"info","message":"Port \u001b[1m3000\u001b[22m is available (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.441Z"}
+{"level":"info","message":"Chatbot training data \u001b[1mbotDefaultTrainingData.json\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.513Z"}
+{"level":"info","message":"Domain \u001b[1mhttps://www.alchemy.com/\u001b[22m is reachable (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-03T04:46:57.656Z"}
+{"level":"info","message":"\u001b[36mServer listening on port \u001b[1m3000\u001b[22m\u001b[39m","timestamp":"2026-01-03T04:47:02.748Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36merrorHandlingChallenge\u001b[39m (Error Handling)","timestamp":"2026-01-03T04:47:03.663Z"}
+{"level":"info","message":"Detected Node.js version \u001b[1mv24.12.0\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.486Z"}
+{"level":"info","message":"Detected OS \u001b[1mwin32\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.491Z"}
+{"level":"info","message":"Detected CPU \u001b[1mx64\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.492Z"}
+{"level":"info","message":"Configuration \u001b[1mdefault\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.586Z"}
+{"level":"info","message":"Entity models \u001b[1m20\u001b[22m of \u001b[1m20\u001b[22m are initialized (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.589Z"}
+{"level":"info","message":"Required file \u001b[1mserver.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.635Z"}
+{"level":"info","message":"Required file \u001b[1mstyles.css\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.686Z"}
+{"level":"info","message":"Required file \u001b[1mmain.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.690Z"}
+{"level":"info","message":"Required file \u001b[1mtutorial.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.719Z"}
+{"level":"info","message":"Required file \u001b[1mindex.html\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.748Z"}
+{"level":"info","message":"Required file \u001b[1mruntime.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.758Z"}
+{"level":"info","message":"Required file \u001b[1mvendor.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.764Z"}
+{"level":"info","message":"Port \u001b[1m3000\u001b[22m is available (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.776Z"}
+{"level":"info","message":"Chatbot training data \u001b[1mbotDefaultTrainingData.json\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:04.820Z"}
+{"level":"info","message":"Domain \u001b[1mhttps://www.alchemy.com/\u001b[22m is reachable (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T05:06:05.548Z"}
+{"level":"info","message":"\u001b[36mServer listening on port \u001b[1m3000\u001b[22m\u001b[39m","timestamp":"2026-01-14T05:06:13.032Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36merrorHandlingChallenge\u001b[39m (Error Handling)","timestamp":"2026-01-14T05:07:08.981Z"}
+{"level":"info","message":"\u001b[32mSolved\u001b[39m 1-star \u001b[36mdirectoryListingChallenge\u001b[39m (Confidential Document)","timestamp":"2026-01-14T07:36:29.800Z"}
+{"level":"info","message":"Cheat score for \u001b[36mdirectoryListingChallenge\u001b[39m solved in 151min (expected ~2min) with hints allowed and 100% expected preceding URL interaction: \u001b[32m0\u001b[39m","timestamp":"2026-01-14T07:36:29.852Z"}
+{"level":"info","message":"Detected Node.js version \u001b[1mv24.12.0\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.125Z"}
+{"level":"info","message":"Detected OS \u001b[1mwin32\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.130Z"}
+{"level":"info","message":"Detected CPU \u001b[1mx64\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.131Z"}
+{"level":"info","message":"Configuration \u001b[1mdefault\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.210Z"}
+{"level":"info","message":"Entity models \u001b[1m20\u001b[22m of \u001b[1m20\u001b[22m are initialized (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.212Z"}
+{"level":"info","message":"Required file \u001b[1mstyles.css\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.278Z"}
+{"level":"info","message":"Required file \u001b[1mserver.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.279Z"}
+{"level":"info","message":"Required file \u001b[1mindex.html\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.280Z"}
+{"level":"info","message":"Required file \u001b[1mmain.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.281Z"}
+{"level":"info","message":"Required file \u001b[1mruntime.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.301Z"}
+{"level":"info","message":"Required file \u001b[1mvendor.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.303Z"}
+{"level":"info","message":"Required file \u001b[1mtutorial.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.305Z"}
+{"level":"info","message":"Port \u001b[1m3000\u001b[22m is available (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.323Z"}
+{"level":"info","message":"Chatbot training data \u001b[1mbotDefaultTrainingData.json\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.346Z"}
+{"level":"info","message":"Domain \u001b[1mhttps://www.alchemy.com/\u001b[22m is reachable (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T07:54:20.647Z"}
+{"level":"info","message":"\u001b[36mServer listening on port \u001b[1m3000\u001b[22m\u001b[39m","timestamp":"2026-01-14T07:54:25.362Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36mdirectoryListingChallenge\u001b[39m (Confidential Document)","timestamp":"2026-01-14T07:54:27.976Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36merrorHandlingChallenge\u001b[39m (Error Handling)","timestamp":"2026-01-14T07:54:27.986Z"}
+{"level":"info","message":"Detected Node.js version \u001b[1mv24.12.0\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.354Z"}
+{"level":"info","message":"Detected OS \u001b[1mwin32\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.362Z"}
+{"level":"info","message":"Detected CPU \u001b[1mx64\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.363Z"}
+{"level":"info","message":"Configuration \u001b[1mdefault\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.449Z"}
+{"level":"info","message":"Entity models \u001b[1m20\u001b[22m of \u001b[1m20\u001b[22m are initialized (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.451Z"}
+{"level":"info","message":"Required file \u001b[1mserver.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.530Z"}
+{"level":"info","message":"Required file \u001b[1mindex.html\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.535Z"}
+{"level":"info","message":"Required file \u001b[1mstyles.css\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.535Z"}
+{"level":"info","message":"Required file \u001b[1mmain.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.537Z"}
+{"level":"info","message":"Required file \u001b[1mtutorial.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.537Z"}
+{"level":"info","message":"Required file \u001b[1mruntime.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.538Z"}
+{"level":"info","message":"Required file \u001b[1mvendor.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.538Z"}
+{"level":"info","message":"Port \u001b[1m3000\u001b[22m is available (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.547Z"}
+{"level":"info","message":"Chatbot training data \u001b[1mbotDefaultTrainingData.json\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:54.556Z"}
+{"level":"info","message":"Domain \u001b[1mhttps://www.alchemy.com/\u001b[22m is reachable (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:29:55.355Z"}
+{"level":"info","message":"\u001b[36mServer listening on port \u001b[1m3000\u001b[22m\u001b[39m","timestamp":"2026-01-14T08:30:01.910Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36mdirectoryListingChallenge\u001b[39m (Confidential Document)","timestamp":"2026-01-14T08:30:14.735Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36merrorHandlingChallenge\u001b[39m (Error Handling)","timestamp":"2026-01-14T08:30:14.760Z"}
+{"level":"info","message":"Detected Node.js version \u001b[1mv24.12.0\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.330Z"}
+{"level":"info","message":"Detected OS \u001b[1mwin32\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.335Z"}
+{"level":"info","message":"Detected CPU \u001b[1mx64\u001b[22m (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.336Z"}
+{"level":"info","message":"Configuration \u001b[1mdefault\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.433Z"}
+{"level":"info","message":"Entity models \u001b[1m20\u001b[22m of \u001b[1m20\u001b[22m are initialized (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.434Z"}
+{"level":"info","message":"Required file \u001b[1mstyles.css\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.585Z"}
+{"level":"info","message":"Required file \u001b[1mserver.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.612Z"}
+{"level":"info","message":"Required file \u001b[1mindex.html\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.648Z"}
+{"level":"info","message":"Required file \u001b[1mmain.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.675Z"}
+{"level":"info","message":"Required file \u001b[1mtutorial.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.716Z"}
+{"level":"info","message":"Required file \u001b[1mruntime.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.721Z"}
+{"level":"info","message":"Required file \u001b[1mvendor.js\u001b[22m is present (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.722Z"}
+{"level":"info","message":"Port \u001b[1m3000\u001b[22m is available (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.741Z"}
+{"level":"info","message":"Chatbot training data \u001b[1mbotDefaultTrainingData.json\u001b[22m validated (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.754Z"}
+{"level":"info","message":"Domain \u001b[1mhttps://www.alchemy.com/\u001b[22m is reachable (\u001b[32mOK\u001b[39m)","timestamp":"2026-01-14T08:35:59.972Z"}
+{"level":"info","message":"\u001b[36mServer listening on port \u001b[1m3000\u001b[22m\u001b[39m","timestamp":"2026-01-14T08:36:13.007Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36mdirectoryListingChallenge\u001b[39m (Confidential Document)","timestamp":"2026-01-14T08:36:16.947Z"}
+{"level":"info","message":"\u001b[90mRestored\u001b[39m 1-star \u001b[36merrorHandlingChallenge\u001b[39m (Error Handling)","timestamp":"2026-01-14T08:36:17.109Z"}
+{"email":"user@user.com","level":"info","message":"Login successful","timestamp":"2026-01-14T08:39:04.851Z","userId":23}
